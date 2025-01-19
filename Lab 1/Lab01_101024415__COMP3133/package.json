@@ -1,0 +1,14 @@
+{
+  "name": "lab01_101024415__comp3133",
+  "version": "1.0.0",
+  "description": "Lab 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nash Gill",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.1.0"
+  }
+}
